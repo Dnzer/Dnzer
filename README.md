@@ -1,12 +1,9 @@
 # Hi 👋, I'm Daniel Elias
 
- **Computer Engineer | Data scientist**  🚀
+**Computer Engineer | Data scientist**  🚀
 
-
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I develop **scalable products**, **high-performance web systems**, and **data analytics solutions**.
+I’m deeply focused on **architecture, performance, clean code, and business-oriented solutions**.
 
 ---
 
@@ -19,7 +16,18 @@ I also create content and share knowledge on **software development, SaaS, and t
 -   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/Dnzer/Dnzer/main/assets/tech-stack.svg"
+    alt="GitHub Tech Stack"
+  />
+</p>
 
 ---
 
@@ -37,7 +45,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -49,27 +56,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![N8N](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/Dnzer/Dnzer/main/assets/tech-stack.svg"
-    alt="GitHub Tech Stack"
-  />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
 
 ---
 
