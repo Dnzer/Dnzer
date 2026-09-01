@@ -1,1 +1,275 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220"><rect width="900" height="220" rx="24" fill="#0d1117"/><rect x="1" y="1" width="898" height="218" rx="24" fill="none" stroke="#30363d"/><text x="40" y="55" fill="#f0f6fc" font-family="sans-serif" font-size="28" font-weight="700">GitHub Tech Stack</text><text x="40" y="90" fill="#8b949e" font-family="sans-serif" font-size="15">Run the workflow to generate your global statistics.</text><text x="40" y="145" fill="#58a6ff" font-family="sans-serif" font-size="13" font-weight="700">LANGUAGES + FRAMEWORKS + AI + DEVOPS + DATABASES</text><text x="40" y="178" fill="#6e7681" font-family="sans-serif" font-size="12">Self-hosted · GitHub Actions · No github-readme-stats dependency</text></svg>
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1000"
+height="720"
+viewBox="0 0 1000 720"
+role="img"
+aria-label="GitHub Tech Stack statistics"
+>
+
+<rect
+    width="1000"
+    height="720"
+    rx="26"
+    fill="#0d1117"
+/>
+
+<rect
+    x="1"
+    y="1"
+    width="998"
+    height="718"
+    rx="26"
+    fill="none"
+    stroke="#30363d"
+/>
+
+
+<!-- HEADER -->
+
+<text
+    x="55"
+    y="58"
+    class="title"
+>
+    GitHub Tech Stack
+</text>
+
+<text
+    x="55"
+    y="91"
+    class="subtitle"
+>
+    @Dnzer
+</text>
+
+
+<!-- SUMMARY -->
+
+<text
+    x="700"
+    y="55"
+    class="summary-number"
+>
+    0
+</text>
+
+<text
+    x="700"
+    y="80"
+    class="summary-label"
+>
+    repositories
+</text>
+
+<text
+    x="805"
+    y="55"
+    class="summary-number"
+>
+    0
+</text>
+
+<text
+    x="805"
+    y="80"
+    class="summary-label"
+>
+    public
+</text>
+
+<text
+    x="900"
+    y="55"
+    class="summary-number"
+>
+    0
+</text>
+
+<text
+    x="900"
+    y="80"
+    class="summary-label"
+>
+    private
+</text>
+
+
+<line
+    x1="55"
+    y1="120"
+    x2="945"
+    y2="120"
+    stroke="#30363d"
+/>
+
+
+<!-- LANGUAGES -->
+
+<text
+    x="55"
+    y="150"
+    class="section"
+>
+    LANGUAGES
+</text>
+
+
+
+
+<!-- DIVIDER -->
+
+<line
+    x1="660"
+    y1="145"
+    x2="660"
+    y2="620"
+    stroke="#30363d"
+/>
+
+
+<!-- TECHNOLOGIES -->
+
+<text
+    x="700"
+    y="150"
+    class="section"
+>
+    TECHNOLOGIES
+</text>
+
+
+
+
+<!-- FOOTER -->
+
+<line
+    x1="55"
+    y1="650"
+    x2="945"
+    y2="650"
+    stroke="#30363d"
+/>
+
+<text
+    x="55"
+    y="680"
+    class="footer"
+>
+    Updated 2026-09-01 14:02 UTC
+</text>
+
+<text
+    x="945"
+    y="680"
+    text-anchor="end"
+    class="footer"
+>
+    GitHub Actions · Self-hosted
+</text>
+
+
+<style>
+
+.title {
+    fill: #f0f6fc;
+    font: 700 30px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.subtitle {
+    fill: #8b949e;
+    font: 400 16px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.section {
+    fill: #58a6ff;
+    font: 700 13px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+    letter-spacing: 2px;
+}
+
+.label {
+    fill: #c9d1d9;
+    font: 500 14px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.percentage {
+    fill: #8b949e;
+    font: 600 13px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.track {
+    fill: #21262d;
+}
+
+.bar {
+    fill: #58a6ff;
+}
+
+.technology {
+    fill: #c9d1d9;
+    font: 600 14px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.repo-count {
+    fill: #8b949e;
+    font: 400 12px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.summary-number {
+    fill: #f0f6fc;
+    font: 700 19px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.summary-label {
+    fill: #8b949e;
+    font: 400 10px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.footer {
+    fill: #6e7681;
+    font: 400 11px
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+</style>
+
+</svg>
