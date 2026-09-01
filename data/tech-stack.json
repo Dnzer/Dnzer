@@ -1,11 +1,142 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 0,
-  "public_repositories": 0,
+  "repositories_analyzed": 13,
+  "public_repositories": 13,
   "private_repositories": 0,
-  "generated_at": "2026-09-01 14:02 UTC",
-  "languages": {},
-  "language_percentages": {},
-  "technologies": {},
-  "repositories": []
+  "generated_at": "2026-09-01 14:52 UTC",
+  "languages": {
+    "Jupyter Notebook": 478288,
+    "CSS": 134609,
+    "JavaScript": 75669,
+    "Python": 74765,
+    "SCSS": 67237,
+    "HTML": 21805
+  },
+  "language_percentages": {
+    "Jupyter Notebook": 56.11,
+    "CSS": 15.79,
+    "JavaScript": 8.88,
+    "Python": 8.77,
+    "SCSS": 7.89,
+    "HTML": 2.56
+  },
+  "technologies": {
+    "Build Tools": {
+      "Vite": 1
+    },
+    "DevOps": {
+      "GitHub Actions": 1
+    },
+    "Frameworks": {
+      "Express": 1
+    },
+    "Runtime": {
+      "Node.js": 1
+    }
+  },
+  "repositories": [
+    {
+      "name": "Dnzer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Dnzer",
+      "languages": {
+        "Python": 34633
+      }
+    },
+    {
+      "name": "imobiliaria",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/imobiliaria",
+      "languages": {
+        "JavaScript": 19347,
+        "HTML": 409
+      }
+    },
+    {
+      "name": "studioframe",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/studioframe",
+      "languages": {
+        "CSS": 55022,
+        "JavaScript": 21336,
+        "HTML": 5033
+      }
+    },
+    {
+      "name": "cabanaspaxixi",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/cabanaspaxixi",
+      "languages": {
+        "JavaScript": 17903,
+        "HTML": 12138
+      }
+    },
+    {
+      "name": "Landing_teste1",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Landing_teste1",
+      "languages": {
+        "CSS": 79587,
+        "SCSS": 67237,
+        "JavaScript": 17083,
+        "HTML": 4225
+      }
+    },
+    {
+      "name": "Solaris",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Solaris",
+      "languages": {}
+    },
+    {
+      "name": "Jogo-da-velhaMINMAX",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Jogo-da-velhaMINMAX",
+      "languages": {
+        "Python": 11965
+      }
+    },
+    {
+      "name": "RoteamentoHierarquico",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/RoteamentoHierarquico",
+      "languages": {}
+    },
+    {
+      "name": "CiscoPacketTracer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/CiscoPacketTracer",
+      "languages": {}
+    },
+    {
+      "name": "GerenciadorMercado",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/GerenciadorMercado",
+      "languages": {
+        "Python": 28167
+      }
+    },
+    {
+      "name": "classif-Iris",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/classif-Iris",
+      "languages": {
+        "Jupyter Notebook": 316754
+      }
+    },
+    {
+      "name": "cafe",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/cafe",
+      "languages": {
+        "Jupyter Notebook": 161534
+      }
+    },
+    {
+      "name": "dataBase",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/dataBase",
+      "languages": {}
+    }
+  ]
 }

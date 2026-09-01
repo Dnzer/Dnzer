@@ -51,7 +51,7 @@ aria-label="GitHub Tech Stack statistics"
     y="55"
     class="summary-number"
 >
-    0
+    13
 </text>
 
 <text
@@ -67,7 +67,7 @@ aria-label="GitHub Tech Stack statistics"
     y="55"
     class="summary-number"
 >
-    0
+    13
 </text>
 
 <text
@@ -115,6 +115,210 @@ aria-label="GitHub Tech Stack statistics"
 </text>
 
 
+            <text
+                x="55"
+                y="180"
+                class="label"
+            >
+                Jupyter Notebook
+            </text>
+
+            <rect
+                x="185"
+                y="164"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="164"
+                width="230"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="180"
+                class="percentage"
+            >
+                56.1%
+            </text>
+            
+            <text
+                x="55"
+                y="223"
+                class="label"
+            >
+                CSS
+            </text>
+
+            <rect
+                x="185"
+                y="207"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="207"
+                width="64"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="223"
+                class="percentage"
+            >
+                15.8%
+            </text>
+            
+            <text
+                x="55"
+                y="266"
+                class="label"
+            >
+                JavaScript
+            </text>
+
+            <rect
+                x="185"
+                y="250"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="250"
+                width="36"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="266"
+                class="percentage"
+            >
+                8.9%
+            </text>
+            
+            <text
+                x="55"
+                y="309"
+                class="label"
+            >
+                Python
+            </text>
+
+            <rect
+                x="185"
+                y="293"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="293"
+                width="35"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="309"
+                class="percentage"
+            >
+                8.8%
+            </text>
+            
+            <text
+                x="55"
+                y="352"
+                class="label"
+            >
+                SCSS
+            </text>
+
+            <rect
+                x="185"
+                y="336"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="336"
+                width="32"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="352"
+                class="percentage"
+            >
+                7.9%
+            </text>
+            
+            <text
+                x="55"
+                y="395"
+                class="label"
+            >
+                HTML
+            </text>
+
+            <rect
+                x="185"
+                y="379"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="379"
+                width="10"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="395"
+                class="percentage"
+            >
+                2.6%
+            </text>
+            
 
 
 <!-- DIVIDER -->
@@ -139,6 +343,74 @@ aria-label="GitHub Tech Stack statistics"
 </text>
 
 
+                <text
+                    x="700"
+                    y="180"
+                    class="technology"
+                >
+                    Express
+                </text>
+
+                <text
+                    x="925"
+                    y="180"
+                    text-anchor="end"
+                    class="repo-count"
+                >
+                    1 repos
+                </text>
+                
+                <text
+                    x="700"
+                    y="219"
+                    class="technology"
+                >
+                    Node.js
+                </text>
+
+                <text
+                    x="925"
+                    y="219"
+                    text-anchor="end"
+                    class="repo-count"
+                >
+                    1 repos
+                </text>
+                
+                <text
+                    x="700"
+                    y="258"
+                    class="technology"
+                >
+                    GitHub Actions
+                </text>
+
+                <text
+                    x="925"
+                    y="258"
+                    text-anchor="end"
+                    class="repo-count"
+                >
+                    1 repos
+                </text>
+                
+                <text
+                    x="700"
+                    y="297"
+                    class="technology"
+                >
+                    Vite
+                </text>
+
+                <text
+                    x="925"
+                    y="297"
+                    text-anchor="end"
+                    class="repo-count"
+                >
+                    1 repos
+                </text>
+                
 
 
 <!-- FOOTER -->
@@ -156,7 +428,7 @@ aria-label="GitHub Tech Stack statistics"
     y="680"
     class="footer"
 >
-    Updated 2026-09-01 14:02 UTC
+    Updated 2026-09-01 14:52 UTC
 </text>
 
 <text
