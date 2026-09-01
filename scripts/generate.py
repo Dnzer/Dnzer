@@ -23,7 +23,7 @@ from pathlib import Path, PurePosixPath
 API = "https://api.github.com"
 
 
-]
+
 TOKEN = os.environ.get("TECH_STACK_GITHUB_TOKEN", "").strip()
 USERNAME = os.environ.get("GITHUB_USERNAME", "").strip()
 
