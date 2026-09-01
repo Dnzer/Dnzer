@@ -22,7 +22,9 @@ from pathlib import Path, PurePosixPath
 
 API = "https://api.github.com"
 
-TOKEN = os.environ.get("GITHUB_TOKEN", "").strip()
+
+]
+TOKEN = os.environ.get("TECH_STACK_GITHUB_TOKEN", "").strip()
 USERNAME = os.environ.get("GITHUB_USERNAME", "").strip()
 
 if not USERNAME:
@@ -155,36 +157,20 @@ def github_get(path: str, params: dict | None = None):
 def list_repositories():
 
     repositories = []
-
     page = 1
 
     while True:
 
-        if TOKEN:
-
-            data = github_get(
-                "/user/repos",
-                {
-                    "per_page": 100,
-                    "page": page,
-                    "affiliation": "owner",
-                    "sort": "updated",
-                    "direction": "desc",
-                }
-            )
-
-        else:
-
-            data = github_get(
-                f"/users/{urllib.parse.quote(USERNAME)}/repos",
-                {
-                    "per_page": 100,
-                    "page": page,
-                    "type": "owner",
-                    "sort": "updated",
-                    "direction": "desc",
-                }
-            )
+        data = github_get(
+            f"/users/{urllib.parse.quote(USERNAME)}/repos",
+            {
+                "per_page": 100,
+                "page": page,
+                "type": "owner",
+                "sort": "updated",
+                "direction": "desc",
+            }
+        )
 
         if not data:
             break
