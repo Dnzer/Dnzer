@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate global tech stack
         env:
-          GITHUB_TOKEN: ${{ secrets.TECH_STACK_GITHUB_TOKEN || github.token }}
+          TECH_STACK_GITHUB_TOKEN: ${{ secrets.TECH_STACK_GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/generate.py
 
