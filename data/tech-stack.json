@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 13,
-  "public_repositories": 13,
+  "repositories_analyzed": 14,
+  "public_repositories": 14,
   "private_repositories": 0,
-  "generated_at": "2026-09-01 14:52 UTC",
+  "generated_at": "2026-09-02 07:59 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "CSS": 134609,
+    "CSS": 141454,
     "JavaScript": 75669,
-    "Python": 74765,
+    "Python": 74395,
     "SCSS": 67237,
-    "HTML": 21805
+    "HTML": 28673
   },
   "language_percentages": {
-    "Jupyter Notebook": 56.11,
-    "CSS": 15.79,
-    "JavaScript": 8.88,
-    "Python": 8.77,
-    "SCSS": 7.89,
-    "HTML": 2.56
+    "Jupyter Notebook": 55.25,
+    "CSS": 16.34,
+    "JavaScript": 8.74,
+    "Python": 8.59,
+    "SCSS": 7.77,
+    "HTML": 3.31
   },
   "technologies": {
     "Build Tools": {
@@ -36,20 +36,12 @@
   },
   "repositories": [
     {
-      "name": "Dnzer",
+      "name": "kibloco",
       "private": false,
-      "html_url": "https://github.com/Dnzer/Dnzer",
+      "html_url": "https://github.com/Dnzer/kibloco",
       "languages": {
-        "Python": 34633
-      }
-    },
-    {
-      "name": "imobiliaria",
-      "private": false,
-      "html_url": "https://github.com/Dnzer/imobiliaria",
-      "languages": {
-        "JavaScript": 19347,
-        "HTML": 409
+        "HTML": 6868,
+        "CSS": 6845
       }
     },
     {
@@ -60,6 +52,23 @@
         "CSS": 55022,
         "JavaScript": 21336,
         "HTML": 5033
+      }
+    },
+    {
+      "name": "Dnzer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Dnzer",
+      "languages": {
+        "Python": 34263
+      }
+    },
+    {
+      "name": "imobiliaria",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/imobiliaria",
+      "languages": {
+        "JavaScript": 19347,
+        "HTML": 409
       }
     },
     {
