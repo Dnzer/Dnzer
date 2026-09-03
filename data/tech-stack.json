@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 14,
-  "public_repositories": 14,
+  "repositories_analyzed": 16,
+  "public_repositories": 16,
   "private_repositories": 0,
-  "generated_at": "2026-09-02 07:59 UTC",
+  "generated_at": "2026-09-03 08:09 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "CSS": 141454,
-    "JavaScript": 75669,
+    "CSS": 107067,
     "Python": 74395,
     "SCSS": 67237,
-    "HTML": 28673
+    "JavaScript": 61256,
+    "HTML": 47995
   },
   "language_percentages": {
-    "Jupyter Notebook": 55.25,
-    "CSS": 16.34,
-    "JavaScript": 8.74,
-    "Python": 8.59,
-    "SCSS": 7.77,
-    "HTML": 3.31
+    "Jupyter Notebook": 57.2,
+    "CSS": 12.8,
+    "Python": 8.9,
+    "SCSS": 8.04,
+    "JavaScript": 7.33,
+    "HTML": 5.74
   },
   "technologies": {
     "Build Tools": {
@@ -36,12 +36,13 @@
   },
   "repositories": [
     {
-      "name": "kibloco",
+      "name": "landingGilvan",
       "private": false,
-      "html_url": "https://github.com/Dnzer/kibloco",
+      "html_url": "https://github.com/Dnzer/landingGilvan",
       "languages": {
-        "HTML": 6868,
-        "CSS": 6845
+        "CSS": 13998,
+        "HTML": 11235,
+        "JavaScript": 2372
       }
     },
     {
@@ -49,9 +50,18 @@
       "private": false,
       "html_url": "https://github.com/Dnzer/studioframe",
       "languages": {
-        "CSS": 55022,
-        "JavaScript": 21336,
-        "HTML": 5033
+        "HTML": 6989,
+        "CSS": 6637,
+        "JavaScript": 2901
+      }
+    },
+    {
+      "name": "portifolio",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/portifolio",
+      "languages": {
+        "HTML": 6131,
+        "JavaScript": 1650
       }
     },
     {
@@ -60,6 +70,15 @@
       "html_url": "https://github.com/Dnzer/Dnzer",
       "languages": {
         "Python": 34263
+      }
+    },
+    {
+      "name": "kibloco",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/kibloco",
+      "languages": {
+        "HTML": 6868,
+        "CSS": 6845
       }
     },
     {
