@@ -3,7 +3,7 @@
   "repositories_analyzed": 16,
   "public_repositories": 16,
   "private_repositories": 0,
-  "generated_at": "2026-09-03 08:09 UTC",
+  "generated_at": "2026-09-04 08:04 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
     "CSS": 107067,
@@ -36,6 +36,14 @@
   },
   "repositories": [
     {
+      "name": "Dnzer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Dnzer",
+      "languages": {
+        "Python": 34263
+      }
+    },
+    {
       "name": "landingGilvan",
       "private": false,
       "html_url": "https://github.com/Dnzer/landingGilvan",
@@ -62,14 +70,6 @@
       "languages": {
         "HTML": 6131,
         "JavaScript": 1650
-      }
-    },
-    {
-      "name": "Dnzer",
-      "private": false,
-      "html_url": "https://github.com/Dnzer/Dnzer",
-      "languages": {
-        "Python": 34263
       }
     },
     {
