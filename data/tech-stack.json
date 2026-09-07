@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 16,
-  "public_repositories": 16,
+  "repositories_analyzed": 17,
+  "public_repositories": 17,
   "private_repositories": 0,
-  "generated_at": "2026-09-06 07:58 UTC",
+  "generated_at": "2026-09-07 08:27 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
     "CSS": 107067,
     "Python": 74395,
+    "JavaScript": 68040,
     "SCSS": 67237,
-    "JavaScript": 61256,
-    "HTML": 47995
+    "HTML": 64030
   },
   "language_percentages": {
-    "Jupyter Notebook": 57.2,
-    "CSS": 12.8,
-    "Python": 8.9,
-    "SCSS": 8.04,
-    "JavaScript": 7.33,
-    "HTML": 5.74
+    "Jupyter Notebook": 55.68,
+    "CSS": 12.46,
+    "Python": 8.66,
+    "JavaScript": 7.92,
+    "SCSS": 7.83,
+    "HTML": 7.45
   },
   "technologies": {
     "Build Tools": {
@@ -35,6 +35,15 @@
     }
   },
   "repositories": [
+    {
+      "name": "ecommerce-joias",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ecommerce-joias",
+      "languages": {
+        "HTML": 16035,
+        "JavaScript": 6784
+      }
+    },
     {
       "name": "Dnzer",
       "private": false,
