@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 17,
-  "public_repositories": 17,
+  "repositories_analyzed": 20,
+  "public_repositories": 20,
   "private_repositories": 0,
-  "generated_at": "2026-09-08 08:11 UTC",
+  "generated_at": "2026-09-09 08:14 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "CSS": 107067,
+    "CSS": 119944,
+    "HTML": 98553,
     "Python": 74395,
-    "JavaScript": 68040,
-    "SCSS": 67237,
-    "HTML": 64049
+    "JavaScript": 73038,
+    "SCSS": 67237
   },
   "language_percentages": {
-    "Jupyter Notebook": 55.67,
-    "CSS": 12.46,
-    "Python": 8.66,
-    "JavaScript": 7.92,
-    "SCSS": 7.83,
-    "HTML": 7.46
+    "Jupyter Notebook": 52.48,
+    "CSS": 13.16,
+    "HTML": 10.81,
+    "Python": 8.16,
+    "JavaScript": 8.01,
+    "SCSS": 7.38
   },
   "technologies": {
     "Build Tools": {
@@ -36,12 +36,31 @@
   },
   "repositories": [
     {
-      "name": "ecommerce-joias",
+      "name": "dominioConsultoria",
       "private": false,
-      "html_url": "https://github.com/Dnzer/ecommerce-joias",
+      "html_url": "https://github.com/Dnzer/dominioConsultoria",
       "languages": {
-        "HTML": 16054,
-        "JavaScript": 6784
+        "HTML": 9832,
+        "JavaScript": 622
+      }
+    },
+    {
+      "name": "ACdronesagricolas",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ACdronesagricolas",
+      "languages": {
+        "HTML": 11326,
+        "JavaScript": 1599
+      }
+    },
+    {
+      "name": "RLGconstrutora",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/RLGconstrutora",
+      "languages": {
+        "HTML": 13346,
+        "CSS": 12877,
+        "JavaScript": 2777
       }
     },
     {
@@ -50,6 +69,15 @@
       "html_url": "https://github.com/Dnzer/Dnzer",
       "languages": {
         "Python": 34263
+      }
+    },
+    {
+      "name": "ecommerce-joias",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ecommerce-joias",
+      "languages": {
+        "HTML": 16054,
+        "JavaScript": 6784
       }
     },
     {
