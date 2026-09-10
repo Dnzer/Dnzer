@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 20,
-  "public_repositories": 20,
+  "repositories_analyzed": 21,
+  "public_repositories": 21,
   "private_repositories": 0,
-  "generated_at": "2026-09-09 08:14 UTC",
+  "generated_at": "2026-09-10 08:14 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "CSS": 119944,
-    "HTML": 98553,
+    "CSS": 138733,
+    "HTML": 111773,
+    "JavaScript": 76099,
     "Python": 74395,
-    "JavaScript": 73038,
     "SCSS": 67237
   },
   "language_percentages": {
-    "Jupyter Notebook": 52.48,
-    "CSS": 13.16,
-    "HTML": 10.81,
-    "Python": 8.16,
-    "JavaScript": 8.01,
-    "SCSS": 7.38
+    "Jupyter Notebook": 50.53,
+    "CSS": 14.66,
+    "HTML": 11.81,
+    "JavaScript": 8.04,
+    "Python": 7.86,
+    "SCSS": 7.1
   },
   "technologies": {
     "Build Tools": {
@@ -35,6 +35,24 @@
     }
   },
   "repositories": [
+    {
+      "name": "ARCHROOM",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ARCHROOM",
+      "languages": {
+        "CSS": 18789,
+        "HTML": 13220,
+        "JavaScript": 3061
+      }
+    },
+    {
+      "name": "Dnzer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Dnzer",
+      "languages": {
+        "Python": 34263
+      }
+    },
     {
       "name": "dominioConsultoria",
       "private": false,
@@ -61,14 +79,6 @@
         "HTML": 13346,
         "CSS": 12877,
         "JavaScript": 2777
-      }
-    },
-    {
-      "name": "Dnzer",
-      "private": false,
-      "html_url": "https://github.com/Dnzer/Dnzer",
-      "languages": {
-        "Python": 34263
       }
     },
     {
