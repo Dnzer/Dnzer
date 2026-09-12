@@ -3,22 +3,22 @@
   "repositories_analyzed": 21,
   "public_repositories": 21,
   "private_repositories": 0,
-  "generated_at": "2026-09-11 08:09 UTC",
+  "generated_at": "2026-09-12 07:59 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "CSS": 138733,
-    "HTML": 111773,
-    "JavaScript": 76099,
+    "CSS": 138639,
+    "HTML": 116855,
+    "JavaScript": 81962,
     "Python": 74395,
     "SCSS": 67237
   },
   "language_percentages": {
-    "Jupyter Notebook": 50.53,
-    "CSS": 14.66,
-    "HTML": 11.81,
-    "JavaScript": 8.04,
-    "Python": 7.86,
-    "SCSS": 7.1
+    "Jupyter Notebook": 49.96,
+    "CSS": 14.48,
+    "HTML": 12.21,
+    "JavaScript": 8.56,
+    "Python": 7.77,
+    "SCSS": 7.02
   },
   "technologies": {
     "Build Tools": {
@@ -35,6 +35,16 @@
     }
   },
   "repositories": [
+    {
+      "name": "landingGilvan",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/landingGilvan",
+      "languages": {
+        "HTML": 16317,
+        "CSS": 13904,
+        "JavaScript": 8235
+      }
+    },
     {
       "name": "Dnzer",
       "private": false,
@@ -88,16 +98,6 @@
       "languages": {
         "HTML": 16054,
         "JavaScript": 6784
-      }
-    },
-    {
-      "name": "landingGilvan",
-      "private": false,
-      "html_url": "https://github.com/Dnzer/landingGilvan",
-      "languages": {
-        "CSS": 13998,
-        "HTML": 11235,
-        "JavaScript": 2372
       }
     },
     {
