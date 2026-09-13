@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 21,
-  "public_repositories": 21,
+  "repositories_analyzed": 22,
+  "public_repositories": 22,
   "private_repositories": 0,
-  "generated_at": "2026-09-12 07:59 UTC",
+  "generated_at": "2026-09-13 08:24 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "CSS": 138639,
-    "HTML": 116855,
-    "JavaScript": 81962,
+    "CSS": 144354,
+    "HTML": 144234,
+    "JavaScript": 82439,
     "Python": 74395,
     "SCSS": 67237
   },
   "language_percentages": {
-    "Jupyter Notebook": 49.96,
-    "CSS": 14.48,
-    "HTML": 12.21,
-    "JavaScript": 8.56,
-    "Python": 7.77,
-    "SCSS": 7.02
+    "Jupyter Notebook": 48.27,
+    "CSS": 14.57,
+    "HTML": 14.56,
+    "JavaScript": 8.32,
+    "Python": 7.51,
+    "SCSS": 6.79
   },
   "technologies": {
     "Build Tools": {
@@ -36,13 +36,13 @@
   },
   "repositories": [
     {
-      "name": "landingGilvan",
+      "name": "Tijolos-Eco-Peres",
       "private": false,
-      "html_url": "https://github.com/Dnzer/landingGilvan",
+      "html_url": "https://github.com/Dnzer/Tijolos-Eco-Peres",
       "languages": {
-        "HTML": 16317,
-        "CSS": 13904,
-        "JavaScript": 8235
+        "HTML": 27379,
+        "CSS": 5715,
+        "JavaScript": 477
       }
     },
     {
@@ -51,6 +51,16 @@
       "html_url": "https://github.com/Dnzer/Dnzer",
       "languages": {
         "Python": 34263
+      }
+    },
+    {
+      "name": "landingGilvan",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/landingGilvan",
+      "languages": {
+        "HTML": 16317,
+        "CSS": 13904,
+        "JavaScript": 8235
       }
     },
     {
