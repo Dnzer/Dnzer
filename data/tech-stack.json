@@ -3,7 +3,7 @@
   "repositories_analyzed": 22,
   "public_repositories": 22,
   "private_repositories": 0,
-  "generated_at": "2026-09-13 08:24 UTC",
+  "generated_at": "2026-09-14 09:04 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
     "CSS": 144354,
@@ -36,6 +36,14 @@
   },
   "repositories": [
     {
+      "name": "Dnzer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Dnzer",
+      "languages": {
+        "Python": 34263
+      }
+    },
+    {
       "name": "Tijolos-Eco-Peres",
       "private": false,
       "html_url": "https://github.com/Dnzer/Tijolos-Eco-Peres",
@@ -43,14 +51,6 @@
         "HTML": 27379,
         "CSS": 5715,
         "JavaScript": 477
-      }
-    },
-    {
-      "name": "Dnzer",
-      "private": false,
-      "html_url": "https://github.com/Dnzer/Dnzer",
-      "languages": {
-        "Python": 34263
       }
     },
     {
