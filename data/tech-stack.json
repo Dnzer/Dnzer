@@ -3,7 +3,7 @@
   "repositories_analyzed": 23,
   "public_repositories": 23,
   "private_repositories": 0,
-  "generated_at": "2026-09-15 08:47 UTC",
+  "generated_at": "2026-09-16 08:41 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
     "HTML": 174964,
@@ -36,19 +36,19 @@
   },
   "repositories": [
     {
-      "name": "SOS-seguranca",
-      "private": false,
-      "html_url": "https://github.com/Dnzer/SOS-seguranca",
-      "languages": {
-        "HTML": 30730
-      }
-    },
-    {
       "name": "Dnzer",
       "private": false,
       "html_url": "https://github.com/Dnzer/Dnzer",
       "languages": {
         "Python": 34263
+      }
+    },
+    {
+      "name": "SOS-seguranca",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/SOS-seguranca",
+      "languages": {
+        "HTML": 30730
       }
     },
     {
