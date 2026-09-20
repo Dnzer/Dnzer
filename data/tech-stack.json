@@ -3,22 +3,22 @@
   "repositories_analyzed": 23,
   "public_repositories": 23,
   "private_repositories": 0,
-  "generated_at": "2026-09-19 08:11 UTC",
+  "generated_at": "2026-09-20 08:41 UTC",
   "languages": {
+    "Jupyter Notebook": 478288,
     "HTML": 174964,
-    "Jupyter Notebook": 161534,
     "CSS": 144354,
     "JavaScript": 82439,
     "Python": 74395,
     "SCSS": 67237
   },
   "language_percentages": {
-    "HTML": 24.82,
-    "Jupyter Notebook": 22.92,
-    "CSS": 20.48,
-    "JavaScript": 11.69,
-    "Python": 10.55,
-    "SCSS": 9.54
+    "Jupyter Notebook": 46.81,
+    "HTML": 17.13,
+    "CSS": 14.13,
+    "JavaScript": 8.07,
+    "Python": 7.28,
+    "SCSS": 6.58
   },
   "technologies": {
     "Build Tools": {
@@ -213,7 +213,9 @@
       "name": "classif-Iris",
       "private": false,
       "html_url": "https://github.com/Dnzer/classif-Iris",
-      "languages": {}
+      "languages": {
+        "Jupyter Notebook": 316754
+      }
     },
     {
       "name": "cafe",
