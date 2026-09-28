@@ -120,7 +120,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="180"
                 class="label"
             >
-                Jupyter Notebook
+                HTML
             </text>
 
             <rect
@@ -135,7 +135,7 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="164"
-                width="191"
+                width="186"
                 height="18"
                 rx="9"
                 class="bar"
@@ -146,7 +146,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="180"
                 class="percentage"
             >
-                46.8%
+                45.5%
             </text>
             
             <text
@@ -154,7 +154,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="223"
                 class="label"
             >
-                HTML
+                Python
             </text>
 
             <rect
@@ -169,6 +169,74 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="207"
+                width="81"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="223"
+                class="percentage"
+            >
+                19.8%
+            </text>
+            
+            <text
+                x="55"
+                y="266"
+                class="label"
+            >
+                JavaScript
+            </text>
+
+            <rect
+                x="185"
+                y="250"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="250"
+                width="71"
+                height="18"
+                rx="9"
+                class="bar"
+            />
+
+            <text
+                x="615"
+                y="266"
+                class="percentage"
+            >
+                17.4%
+            </text>
+            
+            <text
+                x="55"
+                y="309"
+                class="label"
+            >
+                CSS
+            </text>
+
+            <rect
+                x="185"
+                y="293"
+                width="410"
+                height="18"
+                rx="9"
+                class="track"
+            />
+
+            <rect
+                x="185"
+                y="293"
                 width="70"
                 height="18"
                 rx="9"
@@ -177,146 +245,10 @@ aria-label="GitHub Tech Stack statistics"
 
             <text
                 x="615"
-                y="223"
-                class="percentage"
-            >
-                17.1%
-            </text>
-            
-            <text
-                x="55"
-                y="266"
-                class="label"
-            >
-                CSS
-            </text>
-
-            <rect
-                x="185"
-                y="250"
-                width="410"
-                height="18"
-                rx="9"
-                class="track"
-            />
-
-            <rect
-                x="185"
-                y="250"
-                width="57"
-                height="18"
-                rx="9"
-                class="bar"
-            />
-
-            <text
-                x="615"
-                y="266"
-                class="percentage"
-            >
-                14.1%
-            </text>
-            
-            <text
-                x="55"
-                y="309"
-                class="label"
-            >
-                JavaScript
-            </text>
-
-            <rect
-                x="185"
-                y="293"
-                width="410"
-                height="18"
-                rx="9"
-                class="track"
-            />
-
-            <rect
-                x="185"
-                y="293"
-                width="33"
-                height="18"
-                rx="9"
-                class="bar"
-            />
-
-            <text
-                x="615"
                 y="309"
                 class="percentage"
             >
-                8.1%
-            </text>
-            
-            <text
-                x="55"
-                y="352"
-                class="label"
-            >
-                Python
-            </text>
-
-            <rect
-                x="185"
-                y="336"
-                width="410"
-                height="18"
-                rx="9"
-                class="track"
-            />
-
-            <rect
-                x="185"
-                y="336"
-                width="29"
-                height="18"
-                rx="9"
-                class="bar"
-            />
-
-            <text
-                x="615"
-                y="352"
-                class="percentage"
-            >
-                7.3%
-            </text>
-            
-            <text
-                x="55"
-                y="395"
-                class="label"
-            >
-                SCSS
-            </text>
-
-            <rect
-                x="185"
-                y="379"
-                width="410"
-                height="18"
-                rx="9"
-                class="track"
-            />
-
-            <rect
-                x="185"
-                y="379"
-                width="26"
-                height="18"
-                rx="9"
-                class="bar"
-            />
-
-            <text
-                x="615"
-                y="395"
-                class="percentage"
-            >
-                6.6%
+                17.3%
             </text>
             
 
@@ -348,7 +280,7 @@ aria-label="GitHub Tech Stack statistics"
                     y="180"
                     class="technology"
                 >
-                    Express
+                    GitHub Actions
                 </text>
 
                 <text
@@ -365,46 +297,12 @@ aria-label="GitHub Tech Stack statistics"
                     y="219"
                     class="technology"
                 >
-                    Node.js
-                </text>
-
-                <text
-                    x="925"
-                    y="219"
-                    text-anchor="end"
-                    class="repo-count"
-                >
-                    1 repos
-                </text>
-                
-                <text
-                    x="700"
-                    y="258"
-                    class="technology"
-                >
-                    GitHub Actions
-                </text>
-
-                <text
-                    x="925"
-                    y="258"
-                    text-anchor="end"
-                    class="repo-count"
-                >
-                    1 repos
-                </text>
-                
-                <text
-                    x="700"
-                    y="297"
-                    class="technology"
-                >
                     Vite
                 </text>
 
                 <text
                     x="925"
-                    y="297"
+                    y="219"
                     text-anchor="end"
                     class="repo-count"
                 >
@@ -428,7 +326,7 @@ aria-label="GitHub Tech Stack statistics"
     y="680"
     class="footer"
 >
-    Updated 2026-09-27 09:22 UTC
+    Updated 2026-09-28 10:08 UTC
 </text>
 
 <text
