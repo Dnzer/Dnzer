@@ -3,18 +3,22 @@
   "repositories_analyzed": 23,
   "public_repositories": 23,
   "private_repositories": 0,
-  "generated_at": "2026-09-28 10:08 UTC",
+  "generated_at": "2026-09-29 09:57 UTC",
   "languages": {
-    "HTML": 170739,
+    "Jupyter Notebook": 478288,
+    "HTML": 174964,
+    "CSS": 144354,
+    "JavaScript": 82439,
     "Python": 74395,
-    "JavaScript": 65356,
-    "CSS": 64767
+    "SCSS": 67237
   },
   "language_percentages": {
-    "HTML": 45.5,
-    "Python": 19.83,
-    "JavaScript": 17.42,
-    "CSS": 17.26
+    "Jupyter Notebook": 46.81,
+    "HTML": 17.13,
+    "CSS": 14.13,
+    "JavaScript": 8.07,
+    "Python": 7.28,
+    "SCSS": 6.58
   },
   "technologies": {
     "Build Tools": {
@@ -22,6 +26,12 @@
     },
     "DevOps": {
       "GitHub Actions": 1
+    },
+    "Frameworks": {
+      "Express": 1
+    },
+    "Runtime": {
+      "Node.js": 1
     }
   },
   "repositories": [
@@ -158,7 +168,12 @@
       "name": "Landing_teste1",
       "private": false,
       "html_url": "https://github.com/Dnzer/Landing_teste1",
-      "languages": {}
+      "languages": {
+        "CSS": 79587,
+        "SCSS": 67237,
+        "JavaScript": 17083,
+        "HTML": 4225
+      }
     },
     {
       "name": "Solaris",
@@ -198,13 +213,17 @@
       "name": "classif-Iris",
       "private": false,
       "html_url": "https://github.com/Dnzer/classif-Iris",
-      "languages": {}
+      "languages": {
+        "Jupyter Notebook": 316754
+      }
     },
     {
       "name": "cafe",
       "private": false,
       "html_url": "https://github.com/Dnzer/cafe",
-      "languages": {}
+      "languages": {
+        "Jupyter Notebook": 161534
+      }
     },
     {
       "name": "dataBase",
