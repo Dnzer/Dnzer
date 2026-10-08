@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 23,
-  "public_repositories": 23,
+  "repositories_analyzed": 24,
+  "public_repositories": 24,
   "private_repositories": 0,
-  "generated_at": "2026-10-07 10:23 UTC",
+  "generated_at": "2026-10-08 10:44 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "HTML": 174964,
+    "HTML": 199759,
     "CSS": 144354,
     "JavaScript": 82439,
     "Python": 74395,
     "SCSS": 67237
   },
   "language_percentages": {
-    "Jupyter Notebook": 46.81,
-    "HTML": 17.13,
-    "CSS": 14.13,
-    "JavaScript": 8.07,
-    "Python": 7.28,
-    "SCSS": 6.58
+    "Jupyter Notebook": 45.7,
+    "HTML": 19.09,
+    "CSS": 13.79,
+    "JavaScript": 7.88,
+    "Python": 7.11,
+    "SCSS": 6.43
   },
   "technologies": {
     "Build Tools": {
@@ -35,6 +35,14 @@
     }
   },
   "repositories": [
+    {
+      "name": "SmartHome-energiaSolar",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/SmartHome-energiaSolar",
+      "languages": {
+        "HTML": 24795
+      }
+    },
     {
       "name": "Dnzer",
       "private": false,
