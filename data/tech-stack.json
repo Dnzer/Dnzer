@@ -1,24 +1,24 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 24,
-  "public_repositories": 24,
+  "repositories_analyzed": 25,
+  "public_repositories": 25,
   "private_repositories": 0,
-  "generated_at": "2026-10-15 08:25 UTC",
+  "generated_at": "2026-10-16 08:18 UTC",
   "languages": {
     "Jupyter Notebook": 478288,
-    "HTML": 199759,
-    "CSS": 144354,
-    "JavaScript": 82439,
+    "HTML": 240349,
+    "CSS": 154651,
+    "JavaScript": 86614,
     "Python": 74395,
     "SCSS": 67237
   },
   "language_percentages": {
-    "Jupyter Notebook": 45.7,
-    "HTML": 19.09,
-    "CSS": 13.79,
-    "JavaScript": 7.88,
-    "Python": 7.11,
-    "SCSS": 6.43
+    "Jupyter Notebook": 43.42,
+    "HTML": 21.82,
+    "CSS": 14.04,
+    "JavaScript": 7.86,
+    "Python": 6.75,
+    "SCSS": 6.1
   },
   "technologies": {
     "Build Tools": {
@@ -35,6 +35,16 @@
     }
   },
   "repositories": [
+    {
+      "name": "produtora03",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/produtora03",
+      "languages": {
+        "HTML": 40590,
+        "CSS": 10297,
+        "JavaScript": 4175
+      }
+    },
     {
       "name": "Dnzer",
       "private": false,

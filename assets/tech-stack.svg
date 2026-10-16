@@ -51,7 +51,7 @@ aria-label="GitHub Tech Stack statistics"
     y="55"
     class="summary-number"
 >
-    24
+    25
 </text>
 
 <text
@@ -67,7 +67,7 @@ aria-label="GitHub Tech Stack statistics"
     y="55"
     class="summary-number"
 >
-    24
+    25
 </text>
 
 <text
@@ -135,7 +135,7 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="164"
-                width="187"
+                width="178"
                 height="18"
                 rx="9"
                 class="bar"
@@ -146,7 +146,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="180"
                 class="percentage"
             >
-                45.7%
+                43.4%
             </text>
             
             <text
@@ -169,7 +169,7 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="207"
-                width="78"
+                width="89"
                 height="18"
                 rx="9"
                 class="bar"
@@ -180,7 +180,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="223"
                 class="percentage"
             >
-                19.1%
+                21.8%
             </text>
             
             <text
@@ -203,7 +203,7 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="250"
-                width="56"
+                width="57"
                 height="18"
                 rx="9"
                 class="bar"
@@ -214,7 +214,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="266"
                 class="percentage"
             >
-                13.8%
+                14.0%
             </text>
             
             <text
@@ -271,7 +271,7 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="336"
-                width="29"
+                width="27"
                 height="18"
                 rx="9"
                 class="bar"
@@ -282,7 +282,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="352"
                 class="percentage"
             >
-                7.1%
+                6.8%
             </text>
             
             <text
@@ -305,7 +305,7 @@ aria-label="GitHub Tech Stack statistics"
             <rect
                 x="185"
                 y="379"
-                width="26"
+                width="25"
                 height="18"
                 rx="9"
                 class="bar"
@@ -316,7 +316,7 @@ aria-label="GitHub Tech Stack statistics"
                 y="395"
                 class="percentage"
             >
-                6.4%
+                6.1%
             </text>
             
 
@@ -428,7 +428,7 @@ aria-label="GitHub Tech Stack statistics"
     y="680"
     class="footer"
 >
-    Updated 2026-10-15 08:25 UTC
+    Updated 2026-10-16 08:18 UTC
 </text>
 
 <text
