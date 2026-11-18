@@ -1,11 +1,253 @@
 {
   "username": "Dnzer",
-  "repositories_analyzed": 0,
-  "public_repositories": 0,
+  "repositories_analyzed": 25,
+  "public_repositories": 25,
   "private_repositories": 0,
-  "generated_at": "2026-11-17 12:04 UTC",
-  "languages": {},
-  "language_percentages": {},
-  "technologies": {},
-  "repositories": []
+  "generated_at": "2026-11-18 11:55 UTC",
+  "languages": {
+    "Jupyter Notebook": 478288,
+    "HTML": 240349,
+    "CSS": 154651,
+    "JavaScript": 86614,
+    "Python": 74395,
+    "SCSS": 67237
+  },
+  "language_percentages": {
+    "Jupyter Notebook": 43.42,
+    "HTML": 21.82,
+    "CSS": 14.04,
+    "JavaScript": 7.86,
+    "Python": 6.75,
+    "SCSS": 6.1
+  },
+  "technologies": {
+    "Build Tools": {
+      "Vite": 1
+    },
+    "DevOps": {
+      "GitHub Actions": 1
+    },
+    "Frameworks": {
+      "Express": 1
+    },
+    "Runtime": {
+      "Node.js": 1
+    }
+  },
+  "repositories": [
+    {
+      "name": "Dnzer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Dnzer",
+      "languages": {
+        "Python": 34263
+      }
+    },
+    {
+      "name": "produtora03",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/produtora03",
+      "languages": {
+        "HTML": 40590,
+        "CSS": 10297,
+        "JavaScript": 4175
+      }
+    },
+    {
+      "name": "SmartHome-energiaSolar",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/SmartHome-energiaSolar",
+      "languages": {
+        "HTML": 24795
+      }
+    },
+    {
+      "name": "SOS-seguranca",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/SOS-seguranca",
+      "languages": {
+        "HTML": 30730
+      }
+    },
+    {
+      "name": "Tijolos-Eco-Peres",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Tijolos-Eco-Peres",
+      "languages": {
+        "HTML": 27379,
+        "CSS": 5715,
+        "JavaScript": 477
+      }
+    },
+    {
+      "name": "landingGilvan",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/landingGilvan",
+      "languages": {
+        "HTML": 16317,
+        "CSS": 13904,
+        "JavaScript": 8235
+      }
+    },
+    {
+      "name": "ARCHROOM",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ARCHROOM",
+      "languages": {
+        "CSS": 18789,
+        "HTML": 13220,
+        "JavaScript": 3061
+      }
+    },
+    {
+      "name": "dominioConsultoria",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/dominioConsultoria",
+      "languages": {
+        "HTML": 9832,
+        "JavaScript": 622
+      }
+    },
+    {
+      "name": "ACdronesagricolas",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ACdronesagricolas",
+      "languages": {
+        "HTML": 11326,
+        "JavaScript": 1599
+      }
+    },
+    {
+      "name": "RLGconstrutora",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/RLGconstrutora",
+      "languages": {
+        "HTML": 13346,
+        "CSS": 12877,
+        "JavaScript": 2777
+      }
+    },
+    {
+      "name": "ecommerce-joias",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/ecommerce-joias",
+      "languages": {
+        "HTML": 16054,
+        "JavaScript": 6784
+      }
+    },
+    {
+      "name": "studioframe",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/studioframe",
+      "languages": {
+        "HTML": 6989,
+        "CSS": 6637,
+        "JavaScript": 2901
+      }
+    },
+    {
+      "name": "portifolio",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/portifolio",
+      "languages": {
+        "HTML": 6131,
+        "JavaScript": 1650
+      }
+    },
+    {
+      "name": "kibloco",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/kibloco",
+      "languages": {
+        "HTML": 6868,
+        "CSS": 6845
+      }
+    },
+    {
+      "name": "imobiliaria",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/imobiliaria",
+      "languages": {
+        "JavaScript": 19347,
+        "HTML": 409
+      }
+    },
+    {
+      "name": "cabanaspaxixi",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/cabanaspaxixi",
+      "languages": {
+        "JavaScript": 17903,
+        "HTML": 12138
+      }
+    },
+    {
+      "name": "Landing_teste1",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Landing_teste1",
+      "languages": {
+        "CSS": 79587,
+        "SCSS": 67237,
+        "JavaScript": 17083,
+        "HTML": 4225
+      }
+    },
+    {
+      "name": "Solaris",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Solaris",
+      "languages": {}
+    },
+    {
+      "name": "Jogo-da-velhaMINMAX",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/Jogo-da-velhaMINMAX",
+      "languages": {
+        "Python": 11965
+      }
+    },
+    {
+      "name": "RoteamentoHierarquico",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/RoteamentoHierarquico",
+      "languages": {}
+    },
+    {
+      "name": "CiscoPacketTracer",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/CiscoPacketTracer",
+      "languages": {}
+    },
+    {
+      "name": "GerenciadorMercado",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/GerenciadorMercado",
+      "languages": {
+        "Python": 28167
+      }
+    },
+    {
+      "name": "classif-Iris",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/classif-Iris",
+      "languages": {
+        "Jupyter Notebook": 316754
+      }
+    },
+    {
+      "name": "cafe",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/cafe",
+      "languages": {
+        "Jupyter Notebook": 161534
+      }
+    },
+    {
+      "name": "dataBase",
+      "private": false,
+      "html_url": "https://github.com/Dnzer/dataBase",
+      "languages": {}
+    }
+  ]
 }
