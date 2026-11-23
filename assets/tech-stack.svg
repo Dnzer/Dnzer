@@ -394,23 +394,6 @@ aria-label="GitHub Tech Stack statistics"
                     1 repos
                 </text>
                 
-                <text
-                    x="700"
-                    y="297"
-                    class="technology"
-                >
-                    Vite
-                </text>
-
-                <text
-                    x="925"
-                    y="297"
-                    text-anchor="end"
-                    class="repo-count"
-                >
-                    1 repos
-                </text>
-                
 
 
 <!-- FOOTER -->
@@ -428,7 +411,7 @@ aria-label="GitHub Tech Stack statistics"
     y="680"
     class="footer"
 >
-    Updated 2026-11-22 11:39 UTC
+    Updated 2026-11-23 13:11 UTC
 </text>
 
 <text
